@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as AI/ML Engineer<br>🌱 I’m currently discovering different Agenting techniques<br>💬 Ask me about Neural Networks, Python scripting and Tuning ML models<br>📫 Reach me - magodiasanket@gmail.com<br>👨‍💻 All of my projects are available at https://sanketmagodia.info<br>📝 I sometimes write articles on https://medium.com/@magodiasanket<br>
+🔭 I’m currently working as AI/ML Engineer<br>🌱 I’m currently discovering different Agenting techniques<br>💬 Ask me about Neural Networks, Python scripting and Tuning ML models<br>📫 Reach me - magodiasanket@gmail.com<br>👨‍💻 All of my projects are available at https://sanketmagodia.space<br>📝 I sometimes write articles on https://medium.com/@magodiasanket<br>
 
 
 ## 🌐 Socials:
